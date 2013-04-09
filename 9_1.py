@@ -1,6 +1,7 @@
 #!/usr/bin/python
 
 def find_dups(num_list):
+'''引数のリストから重複アイテムを取り出す'''
     a = []
     dups = []
 
